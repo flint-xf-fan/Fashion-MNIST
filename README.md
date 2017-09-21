@@ -47,10 +47,10 @@ The exact same model applied to both original MNIST and new fashion-mnist.
 
 ### Hyperparameters
 
-```epochs = 30
+``epochs = 30
 batch_size = 256
 opt = Adam(decay=0.001)
-drop_out = 0.35```
+drop_out = 0.35``
 
 
 ## Result

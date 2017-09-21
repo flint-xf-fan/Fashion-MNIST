@@ -58,12 +58,12 @@ drop_out = 0.35
 
 ## Result
 
-## MNIST
+## MNIST - 0.994
 
 ![alt text][image3]
 
 
-## Fashion-MNIST
+## Fashion-MNIST - 0.932
 
 ### Loss
 
